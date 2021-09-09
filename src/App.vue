@@ -6,6 +6,15 @@
         <v-tab to="/">Trang Tra Cứu</v-tab>
         <v-tab href="https://google.com">Kiểm Tra Chữ Ký</v-tab>
       </v-tabs>
+
+      <v-btn
+        href="https://liam-parry.github.io/deploybtm"
+        target="_blank"
+        text
+      >
+        <span class="mr-2">Đến trang BTM Wallet</span>
+        <v-icon>mdi-open-in-new</v-icon>
+      </v-btn>
     </v-app-bar>
 
     <v-main>
